@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the data returned from a database query is not in the expected format. For example, if you expect an array of objects but the database returns a single object, this can lead to unexpected behavior and errors in your application. This can occur if your data structure or query is not carefully designed.
